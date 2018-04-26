@@ -1,0 +1,91 @@
+
+
+   Primzahlenauflisten!
+
+
+   Untere Grenze Eingeben? 10000000000000000
+   Obere  Grenze Eingeben? 10000000000001000
+
+
+Primzahl 1 :)  10'000'000'000'000'061
+Time333: 0h 0m 0s 465ms
+
+
+Primzahl 2 :)  10'000'000'000'000'069
+Time333: 0h 0m 0s 685ms
+
+
+Primzahl 3 :)  10'000'000'000'000'079
+Time333: 0h 0m 0s 905ms
+
+
+Primzahl 4 :)  10'000'000'000'000'099
+Time333: 0h 0m 1s 127ms
+
+
+Primzahl 5 :)  10'000'000'000'000'453
+Time333: 0h 0m 1s 913ms
+
+
+Primzahl 6 :)  10'000'000'000'000'481
+Time333: 0h 0m 2s 136ms
+
+
+Primzahl 7 :)  10'000'000'000'000'597
+Time333: 0h 0m 2s 604ms
+
+
+Primzahl 8 :)  10'000'000'000'000'613
+Time333: 0h 0m 3s 18ms
+
+
+Primzahl 9 :)  10'000'000'000'000'639
+Time333: 0h 0m 3s 242ms
+
+
+Primzahl 10 :)  10'000'000'000'000'669
+Time333: 0h 0m 3s 463ms
+
+
+Primzahl 11 :)  10'000'000'000'000'753
+Time333: 0h 0m 4s 25ms
+
+
+Primzahl 12 :)  10'000'000'000'000'793
+Time333: 0h 0m 4s 447ms
+
+
+Primzahl 13 :)  10'000'000'000'000'819
+Time333: 0h 0m 4s 670ms
+
+
+Primzahl 14 :)  10'000'000'000'000'861
+Time333: 0h 0m 4s 893ms
+
+
+Primzahl 15 :)  10'000'000'000'000'897
+Time333: 0h 0m 5s 118ms
+
+
+Primzahl 16 :)  10'000'000'000'000'909
+Time333: 0h 0m 5s 341ms
+
+
+Primzahl 17 :)  10'000'000'000'000'931
+Time333: 0h 0m 5s 563ms
+
+
+Primzahl 18 :)  10'000'000'000'000'949
+Time333: 0h 0m 5s 823ms
+
+
+Primzahl 19 :)  10'000'000'000'000'957
+Time333: 0h 0m 6s 42ms
+
+
+Primzahl 20 :)  10'000'000'000'000'991
+Time333: 0h 0m 6s 281ms
+
+Fertig! :)
+
+        Copyright © Nicolas Sauter

@@ -1,0 +1,91 @@
+
+
+   Primzahlenauflisten!
+
+
+   Untere Grenze Eingeben? 1000000000000000000000
+   Obere  Grenze Eingeben? 1000000000000000001000
+
+
+Primzahl 1 :)  1'000'000'000'000'000'000'117
+Time: 0h 23m 33s 521ms
+
+
+Primzahl 2 :)  1'000'000'000'000'000'000'193
+Time: 0h 46m 23s 698ms
+
+
+Primzahl 3 :)  1'000'000'000'000'000'000'213
+Time: 1h 9m 17s 845ms
+
+
+Primzahl 4 :)  1'000'000'000'000'000'000'217
+Time: 1h 32m 9s 141ms
+
+
+Primzahl 5 :)  1'000'000'000'000'000'000'289
+Time: 2h 29m 26s 13ms
+
+
+Primzahl 6 :)  1'000'000'000'000'000'000'327
+Time: 2h 52m 17s 563ms
+
+
+Primzahl 7 :)  1'000'000'000'000'000'000'367
+Time: 3h 15m 10s 500ms
+
+
+Primzahl 8 :)  1'000'000'000'000'000'000'373
+Time: 3h 38m 2s 489ms
+
+
+Primzahl 9 :)  1'000'000'000'000'000'000'399
+Time: 4h 0m 55s 61ms
+
+
+Primzahl 10 :)  1'000'000'000'000'000'000'409
+Time: 4h 23m 48s 729ms
+
+
+Primzahl 11 :)  1'000'000'000'000'000'000'411
+Time: 4h 46m 43s 671ms
+
+
+Primzahl 12 :)  1'000'000'000'000'000'000'427
+Time: 5h 9m 34s 301ms
+
+
+Primzahl 13 :)  1'000'000'000'000'000'000'433
+Time: 5h 32m 24s 201ms
+
+
+Primzahl 14 :)  1'000'000'000'000'000'000'447
+Time: 5h 55m 15s 932ms
+
+
+Primzahl 15 :)  1'000'000'000'000'000'000'471
+Time: 6h 20m 31s 770ms
+
+
+Primzahl 16 :)  1'000'000'000'000'000'000'553
+Time: 6h 43m 44s 890ms
+
+
+Primzahl 17 :)  1'000'000'000'000'000'000'609
+Time: 7h 6m 36s 451ms
+
+
+Primzahl 18 :)  1'000'000'000'000'000'000'723
+Time: 7h 29m 27s 881ms
+
+
+Primzahl 19 :)  1'000'000'000'000'000'000'733
+Time: 7h 52m 29s 198ms
+
+
+Primzahl 20 :)  1'000'000'000'000'000'000'951
+Time: 9h 13m 31s 725ms
+
+Fertig! :)
+
+        Copyright © Nicolas Sauter

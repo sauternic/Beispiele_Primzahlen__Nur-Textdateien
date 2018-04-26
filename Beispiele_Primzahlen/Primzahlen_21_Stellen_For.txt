@@ -1,0 +1,52 @@
+
+
+   Primzahlenauflisten!
+
+
+   Untere Grenze Eingeben? 100000000000000000000
+   Obere  Grenze Eingeben? 100000000000000001000
+
+
+Primzahl 1 :)  100'000'000'000'000'000'039
+Time: 0h 0m 53s 69ms
+
+
+Primzahl 2 :)  100'000'000'000'000'000'129
+Time: 0h 1m 53s 227ms
+
+
+Primzahl 3 :)  100'000'000'000'000'000'151
+Time: 0h 2m 47s 93ms
+
+
+Primzahl 4 :)  100'000'000'000'000'000'193
+Time: 0h 3m 39s 994ms
+
+
+Primzahl 5 :)  100'000'000'000'000'000'207
+Time: 0h 4m 32s 723ms
+
+
+Primzahl 6 :)  100'000'000'000'000'000'301
+Time: 0h 5m 30s 65ms
+
+
+Primzahl 7 :)  100'000'000'000'000'000'349
+Time: 0h 6m 31s 727ms
+
+
+Primzahl 8 :)  100'000'000'000'000'000'361
+Time: 0h 7m 24s 685ms
+
+
+Primzahl 9 :)  100'000'000'000'000'000'391
+Time: 0h 8m 17s 739ms
+
+
+Primzahl 10 :)  100'000'000'000'000'000'393
+Time: 0h 9m 10s 734ms
+
+
+Primzahl 11 :)  100'000'000'000'000'000'441
+Time: 0h 10m 9s 129ms
+
