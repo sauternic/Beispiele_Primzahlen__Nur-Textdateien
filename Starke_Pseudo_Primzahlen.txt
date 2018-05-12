@@ -1,0 +1,11 @@
+
+2152302898747
+# Gemäss Brute Force keine Primzahl,
+# besteht aber fast alle Tests Fermat.
+# erst ab ca. von 2 bis Basis 6800 keine Primzahl mehr mit Fermat Test!
+
+
+3474749660383
+# Gemäss Brute Force keine Primzahl,
+# besteht aber fast alle Tests Fermat.
+# erst ab ca. von 2 bis Basis 1350 keine Primzahl mehr mit Fermat Test!
