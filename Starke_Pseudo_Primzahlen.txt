@@ -1,11 +1,22 @@
 
+Superstarke Pseudoprimzahlen:
+
+*************************************************************************
 2152302898747
 # Gemäss Brute Force keine Primzahl,
 # besteht aber fast alle Tests Fermat.
-# erst ab ca. von 2 bis Basis 6800 keine Primzahl mehr mit Fermat Test!
+# Bei Basis 6763 keine Primzahl mehr mit Fermat Test!
+
+Bei Lagrange wird sie schon bei Basis 13 Entlarvt!! :)))
+*************************************************************************
 
 
+
+*************************************************************************
 3474749660383
 # Gemäss Brute Force keine Primzahl,
 # besteht aber fast alle Tests Fermat.
 # erst ab ca. von 2 bis Basis 1350 keine Primzahl mehr mit Fermat Test!
+
+Bei Lagrange wird sie schon bei Basis 17 Entlarvt!! :)))
+*************************************************************************
